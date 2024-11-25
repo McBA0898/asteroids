@@ -1,5 +1,5 @@
 import pygame
-from constants import PLAYER_RADIUS
+from constants import *
 from circleshape import CircleShape
 
 class Player(CircleShape):
